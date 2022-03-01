@@ -6132,7 +6132,10 @@ a.bg-dark:hover {
 .rounded-0 {
   border-radius: 10 !important;
 }
-
+.float-sm-start {
+  width: 200px;
+  height: 200px;
+}
 .clearfix::after {
   display: block;
   clear: both;

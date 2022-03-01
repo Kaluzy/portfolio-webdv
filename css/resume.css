@@ -27,7 +27,10 @@ h6 {
   text-transform: uppercase;
   color: #343a40;
 }
-
+.float-sm-start {
+  width: 200px;
+  height: 200px;
+}
 h1 {
   font-size: 6rem;
   line-height: 5.5rem;
